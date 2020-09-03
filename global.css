@@ -246,13 +246,17 @@ a:hover
 	display: flex;
 	flex-direction: column;
 }
-/*footer
+.footer
 {
 	width: 100%;
 	font-size: 24px;
-	border: 2px solid black;
 	text-align: center;
 	background-color: #F0F8FF;
+	border: 2px solid skyblue;
+	box-shadow: 0 0 15px #DAA520;
+	-moz-box-shadow: 0 0 15px #DAA520;
+	-webkit-box-shadow: 0 0 15px #DAA520;
+	-o-box-shadow: 0 0 15px #DAA520;
 }
 span
 {
