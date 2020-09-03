@@ -796,6 +796,23 @@ a:hover
 	border:2px solid skyblue;
 	margin-bottom: 20px;
 }
+.footer
+{
+	width: 100%;
+	font-size: 13px;
+	text-align: center;
+	background-color: #F0F8FF;
+	border: 2px solid skyblue;
+	box-shadow: 0 0 15px #DAA520;
+	-moz-box-shadow: 0 0 15px #DAA520;
+	-webkit-box-shadow: 0 0 15px #DAA520;
+	-o-box-shadow: 0 0 15px #DAA520;
+}
+span
+{
+	color: #191970;
+	font-size: 15px;
+}
 .foot
 {
 	width: 98%;
